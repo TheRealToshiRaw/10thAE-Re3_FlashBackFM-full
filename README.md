@@ -9,7 +9,7 @@ Buy your own copy of the game, Developers need to be paid and fully supported fo
 you have to stay legal and i am not responsible for what you do  ;)  
 
 
-# Now let's feel the best pop music taste of Flashback FM by DJ Toni:  
+# Now let's feel the best pop music taste of Flashback FM hosted by DJ Toni:  
 
 Radios on gta3 has changed through different iterations of the game,  
 here is the complete Flashback FM iconic tracklist;  
