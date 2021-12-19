@@ -1,5 +1,5 @@
-# 10thAE-Re3_FlashbackFM-full  
-The full Flashback 95.6 FM station with all tracks  
+# 10thAE-Re3_FlashBackFM-full  
+The full FlashBack 95.6 FM station with all tracks  
 
 (welcome back to HQ removed/censored/exclusive tracks, commercials and skits, etc..)  
 
@@ -12,10 +12,10 @@ Developers need to be paid and fully supported for their job,
 you have to stay legal and i am not responsible for what you do  ;)  
 
 
-# Now let's feel the best pop music taste of Flashback 95.6 FM hosted by DJ Toni:  
+# Now let's feel the best pop music taste of FlashBack 95.6 FM hosted by DJ Toni:  
 
 Radios on gta3 has changed through different iterations of the game,  
-here is the complete Flashback 95.6 FM iconic tracklist;  
+here is the complete FlashBack 95.6 FM iconic tracklist;  
 (according to https://gta.fandom.com/wiki/Radio_Stations_in_GTA_III#Flashback_95.6  
 and https://gta.fandom.com/fr/wiki/Flashback_FM#GTA_III )  
 
