@@ -1,5 +1,7 @@
-# FlashbackFM-full
-The full Flashback FM radio with all tracks
+# 10thAE-Re3_FlashbackFM-full  
+The full Flashback 95.6 FM station with all tracks  
+
+(welcome back to HQ removed/censored/exclusive tracks, commercials and skits, etc..)  
 
 This repository was made for the conservation of video-gaming History;  
 because Art needs to be saved for our collective remembering.  
@@ -10,10 +12,10 @@ Developers need to be paid and fully supported for their job,
 you have to stay legal and i am not responsible for what you do  ;)  
 
 
-# Now let's feel the best pop music taste of Flashback FM hosted by DJ Toni:  
+# Now let's feel the best pop music taste of Flashback 95.6 FM hosted by DJ Toni:  
 
 Radios on gta3 has changed through different iterations of the game,  
-here is the complete Flashback FM iconic tracklist;  
+here is the complete Flashback 95.6 FM iconic tracklist;  
 (according to https://gta.fandom.com/wiki/Radio_Stations_in_GTA_III#Flashback_95.6  
 and https://gta.fandom.com/fr/wiki/Flashback_FM#GTA_III )  
 
@@ -22,7 +24,7 @@ _just replace FLASH.wav on your ux0:data/gta3/audio
 (tested and works correctly as is on any Vita version of your game.)  
 
 
-### Flashback FM full (18:45 - 1536 Kbps - 206 Mo):  
+### FLASH.wav (18:45 - 1536 Kbps - 206 Mo):  
 
 (all songs came from the soundtrack of the 1983 hit film "Scarface" produced by Giorgio Moroder)  
 
@@ -36,4 +38,4 @@ _just replace FLASH.wav on your ux0:data/gta3/audio
 15:38 -> 18:29 Im Hot Tonight - Elizabeth Daily  
 18:30 -> 18:45 Skit  
 
-TheRealToshiRaw_ 2021
+TheRealToshiRaw_ 2021  
